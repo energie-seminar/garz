@@ -12,7 +12,7 @@ src="assets/models/Gewaechshaus_V5_2 (1).gltf"
 shadow-intensity="1" 
 camera-controls 
 touch-action="pan-y"
-style="width: 800px; height: 600px;"
+style="width: 100%; height: auto;"
 >
 </model-viewer>
 
