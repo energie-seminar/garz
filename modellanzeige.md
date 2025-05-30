@@ -4,10 +4,9 @@ nav_order: 10
 ---
 
 # 3D Modellanzeige
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
 
-<model-viewer src="/assets/models/gewaechshaus.gltf" alt="§D Modell des Gewächshauses"
-              auto-rotate camera-controls
-              style="width: 600px; height: 400px;">
+<model-viewer alt="3D Modell des Gewächshauses" src="assets/models/gewaechshaus.gltf">
 </model-viewer>
 
-<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
