@@ -1,4 +1,8 @@
-# Welcome to Foobar!
+---
+title: Das Projekt
+nav_order: 1
+has_children: false
+---
 
-- foobar1
-- foobar2
+# Das Projekt - Gewächshaus in Garz
+Hier ne Projektbeschreibung für ein Gewächshaus in Garz.
